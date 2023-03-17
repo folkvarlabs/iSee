@@ -1,3 +1,6 @@
+![alt text](https://cdn.discordapp.com/attachments/1055231169479843870/1086172028492591104/cywf_Artificial_Intelligence_that_can_take_in_any_form_of_input_f696434c-fa00-493c-af09-da165d97492e.png)
+
+
 # iSee
 
 iSee is a comprehensive solution for translating text, transcribing images, and processing audio files using various backends (Python, Rust, and JavaScript). 
